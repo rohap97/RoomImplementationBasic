@@ -1,0 +1,1 @@
+This app was made to understand the Room Database in Android. Room is part of the Architecture components that help in making an app robust and maintaible with less boilerplate-code. This was made with the help of the following codelab. The link of which is given here :- https://codelabs.developers.google.com/codelabs/android-room-with-a-view/index.html?index=..%2F..index#0
